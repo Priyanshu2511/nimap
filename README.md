@@ -1,2 +1,2 @@
-# nimap
-curd operation
+# NiMapInfotech-Assignment
+Java machine test for NiMapInfotech
